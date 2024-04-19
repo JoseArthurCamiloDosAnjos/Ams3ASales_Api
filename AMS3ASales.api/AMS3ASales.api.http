@@ -1,0 +1,6 @@
+@AMS3ASales.api_HostAddress = http://localhost:5140
+
+GET {{AMS3ASales.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
